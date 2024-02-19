@@ -5,7 +5,7 @@ This was a project in the Data Science: machine learning career path in codecade
 
 ### Personal Expereince with the project
 I used the provided data (insurance.csv) to see differences in isurance costs between women under the age of 50 who live in the northwest that smoke and women under the age of 50 who live in the northwest who do 
-not smoke. This project alone took me a little over 4 hours becuase I had to go back and look through documentation,use codecademy, google, and chatGPT. I found this code to be re-useable and the only downside to my code is that Body mass index (bmi) is not included into the equation. 
+not smoke. I had to look through online documentation, codecademy resources, and google to complete the project as accurately as I could. I found this code to be re-useable and the only downside to my code is that Body mass index (bmi) is not included into the equation. 
 
 
 
