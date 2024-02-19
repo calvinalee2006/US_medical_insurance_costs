@@ -10,4 +10,5 @@ not smoke. This project alone took me a little over 4 hours becuase I had to go 
 
 
 
-Calvin Lee
+Calvin Lee| Data Analyst 
+[Linkedin](https://www.linkedin.com/in/calvinalee/)
